@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 import cv2
 
-api_key = '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'
+api_key = ''
 
 thres = 0.45
 def detect_objects_and_generate_prompt():
